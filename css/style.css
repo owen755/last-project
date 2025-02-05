@@ -19,6 +19,7 @@
     font-family: 'Segoe UI', system-ui, sans-serif;
     line-height: 1.6;
     color: var(--text-dark);
+    background-color: antiquewhite;
   }
   
   /* Accessibility Focus */
